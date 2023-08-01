@@ -1,0 +1,242 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/kevin.fernandez/Documents/ProyectosEscotel/Projects_To_Doc/Doc_Chat/Docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Controllers.ChatHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Controllers.ChatHub.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Controllers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Entidades.Chat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Entidades.Chat.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Entidades.Mensaje.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Entidades.Mensaje.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Entidades.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Entidades.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Models.ChatDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Models.ChatDTO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Models.ReceivedMessages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Models.ReceivedMessages.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Persistencia.ChatContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Persistencia.ChatContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Persistencia.IChatContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Persistencia.IChatContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Persistencia.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Persistencia.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Repositorios.ChatRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Repositorios.ChatRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Repositorios.IChatRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Repositorios.IChatRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Repositorios.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Repositorios.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Servicios.AutoMapperProfiles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Servicios.AutoMapperProfiles.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Doc_Chat.Servicios.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Doc_Chat.Servicios.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
