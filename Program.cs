@@ -2,6 +2,7 @@ using Doc_Chat.Controllers;
 using Doc_Chat.Persistencia;
 using Doc_Chat.Repositorios;
 
+//Prueba
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
